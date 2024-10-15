@@ -12,7 +12,7 @@ align-items: center;
 
 const App = () => { 
 return ( 
-	<Main> 
+	<Main className="main-container"> 
 	<GlobalStyles /> 
 	<Tracker /> 
 	</Main> 

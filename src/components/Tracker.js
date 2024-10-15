@@ -95,7 +95,7 @@ const Tracker = () => {
   }, [transactions]);
 
   return (
-    <Container>
+    <Container className="tracker-container">
       <Heading>Expense Tracker</Heading>
       <OverviewComponent
         toggle={toggle}
