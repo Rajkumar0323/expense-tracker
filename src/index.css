@@ -19,3 +19,9 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border: none !important;
 }
+
+.add-trans-container{
+  box-shadow: 0 4px 26px rgba(0, 0, 0, 0.2);
+  border: none !important;
+
+}

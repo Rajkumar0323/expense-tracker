@@ -64,7 +64,7 @@ const AddTransactionData = () => {
 }; 
 
 return ( 
-	<Container> 
+	<Container className="add-trans-container"> 
 	<Input 
 		type={"number"} 
 		placeholder="Enter Amount"
